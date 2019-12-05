@@ -1,4 +1,4 @@
-# Historia
+# História
 
 ## Conteúdo
 
