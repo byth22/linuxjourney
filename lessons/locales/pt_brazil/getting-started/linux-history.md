@@ -24,7 +24,7 @@ Leitura adicional:
 
 ## Quiz
 
-Quem desenvolveu o Kernel Linux?? 
+Quem desenvolveu o Kernel Linux?
 
 ## Resposta
 
