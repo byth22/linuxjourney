@@ -14,7 +14,7 @@ Debian também usa ferramenta de gerenciamento de pacotes. Toda distribuição L
 
 Debian é um sistema operacional ótimo no geral, para qualquer plataforma.
 
-<b>Uses</b>
+<b>Uso</b>
 
 Ele pode não receber as atualizações mais recentes, mas é extremamente estável. Se você deseja um bom sistema operacional, ele é para você.
 
